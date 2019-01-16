@@ -1,0 +1,12 @@
+Senhores,
+
+Conforme comentei, segue anexo as duas planilhas, onde após inserir elas no banco de dados SQL via automação. Extrair um relatório Excel com os dados do arquivo Compra_Frutas.xlsx e descrição da Fruta que está no arquivo Frutas.xlsx.
+
+Vamos utilizar essa conexão com SQL em alguns casos direto na base, pois existem varias bases de dados locais(em maquinas locais) ou conexões diretas nos sistemas, em alguns casos vamos importar o excel via automação para o SQL e extrair um relatório pegando informações de várias tabelas.
+
+Att,
+Luis Andrade 
+Diretoria de Operações
+C.: (11) 97998-4499
+Email: luis.andrade@globalhitss.com.br
+HITSS do Brasil Serviços Tecnológicos Ltda
